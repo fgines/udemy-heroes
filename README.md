@@ -9,5 +9,7 @@ Pueden hacer lo que quieran...
 ### 
 ###  GitLocal
 Esto va a ser un conflicto, parte git local
+### GitHub changes
+Creando un conflicto con Guithub
 
 
